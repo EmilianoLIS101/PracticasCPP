@@ -12,9 +12,9 @@ int main() {
 
     do {
         cout << "Menu de Productos:\n";
-        cout << "1. Torta - $10\n";
-        cout << "2. Palomitas - $20\n";
-        cout << "3. Agua - $5\n";
+        cout << "1. Torta\n";
+        cout << "2. Palomitas\n";
+        cout << "3. Agua\n";
         cout << "4. Salir\n";
         cout << "Seleccione una opcion (1-4): ";
         cin >> opcion;
